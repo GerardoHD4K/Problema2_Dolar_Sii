@@ -14,4 +14,4 @@ Comprar en **Febrero de 2023** y vender en **Enero de 2025**. Esta operación ge
 No se recomienda hacer ninguna afirmación de inversión evaluando **Diciembre de 2022 contra Diciembre de 2023**. En este tramo, el $\Delta P$ es de apenas $-1.0$ peso con una incertidumbre de $\pm 0.7$ pesos (67% de error). Con márgenes tan estrechos, afirmar que el dólar bajó o subió para tomar una decisión financiera sería completamente irresponsable.
 
 **5. La lección de método:**
-Al restar dos números muy grandes y parecidos, las cifras verdaderas desaparecen por el efecto de cancelación y lo único que queda controlando el resultado final es la basura del error acumulado.
+Al restar dos números muy grandes y parecidos, las cifras verdaderas desaparecen por el efecto de cancelación y lo único que queda controlando el resultado final es la basura del error acumulado. 
