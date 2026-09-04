@@ -1,3 +1,5 @@
+#Gerardo Pinilla, Matias Araya
+
 import numpy as np
 
 def cargar_csv():

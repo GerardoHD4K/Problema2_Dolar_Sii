@@ -1,4 +1,6 @@
+# Gerardo Pinilla, Matias Araya
 # Respuestas: Anualidad y Punto Flotante
+
 ## A1 Error de representacion mes a mes
 Para aplicar las 2 cifras significativas de la mantisa corta, los precios se redondearon a la decena más cercana (si eran menores a 1000) o a la centena (si eran mayores a 1000). El mes que sufrió el mayor error relativo tras el redondeo fue Abril de 2022. Su precio original era 815.12, y al guardarse con 2 cifras se registró como 820.0. Esto generó un error absoluto de 4.88 pesos, lo que equivale a un error relativo del 0.60%.
 
